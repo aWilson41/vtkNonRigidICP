@@ -5,6 +5,6 @@ Implements the data term and regularization term from the paper. The data term d
 
 Filter can cache the results to pick up where it left off faster. It can also output the displacement vectors as scalars.
 
-Future improvements: Better correspodence dropping. Incoporate normals in kd-trees nearest neighbor search.
+Future improvements: Better correspodence dropping. Incoporate normals in kd-trees nearest neighbor search. Unroll matrix and use VNL.
 
 ![Alt text](https://andaharoo.files.wordpress.com/2019/09/screenshot.png)
